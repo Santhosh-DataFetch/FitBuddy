@@ -113,5 +113,9 @@ temp/
 client/public/__manus__/version.json
 .project-config.json
 
-# Vercel build output
-.vercel
+# Streamlit
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.venv/
+venv/
